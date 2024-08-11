@@ -5,6 +5,7 @@ import 'package:flutter_game_tutorial/entities/player.dart';
 import 'package:flutter_game_tutorial/scenes/app_scene.dart';
 import 'package:flutter_game_tutorial/utilits/global_vars.dart';
 
+// ignore: duplicate_import
 import '../utilits/global_vars.dart';
 
 class GameScene extends AppScene {
